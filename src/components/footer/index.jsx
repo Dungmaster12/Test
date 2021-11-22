@@ -19,7 +19,7 @@ const Footer = () => {
                             <div className="flex space-x-4 footer__social">
                                 <a
                                     target="_blank"
-                                    href="https://www.facebook.com/nguyendinhkha2k1"
+                                    href="https://www.facebook.com/anhdungcter"
                                     className="p-1 rounded-full"
                                 >
                                     <svg
@@ -33,7 +33,7 @@ const Footer = () => {
                                 </a>
                                 <a
                                     target="_blank"
-                                    href="https://github.com/khanguyen01it/"
+                                    href="https://github.com/Dungmaster12"
                                     className="p-1 rounded-full"
                                 >
                                     <svg
@@ -50,7 +50,7 @@ const Footer = () => {
                                 </a>
                                 <a
                                     target="_blank"
-                                    href="https://www.instagram.com/nguyendinhkha2k1"
+                                    href=""
                                     className="p-1 rounded-full"
                                 >
                                     <svg
@@ -167,7 +167,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="flex mt-568:flex-row flex-col items-center justify-between mt-10">
-                    <p>&#169; 2021 Ax Nguyen</p>
+                    <p>&#169; 2021 Dung Master</p>
                     <div className="space-x-4">
                         <Link
                             to="/"
